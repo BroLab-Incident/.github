@@ -6,7 +6,7 @@
 
 **Practical AI experiments, useful tools, and open learning.**
 
-We build, test, and share experiments at the intersection of AI and software.
+We investigate problems, test ideas, and turn what works into useful open-source tools.
 
 [Explore projects](https://github.com/orgs/HakamiDev/repositories) · [ProjectForge](https://github.com/HakamiDev/ProjectForge)
 
